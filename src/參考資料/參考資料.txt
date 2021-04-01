@@ -1,0 +1,4 @@
+【使用Launch4j 將jar 包成exe 檔】
+    http://notesfun.blogspot.com/2013/08/launch4j-jar-exe.html
+1. 匯出可執行JAR
+2. 根據網站說明設定Launch4j
